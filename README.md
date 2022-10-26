@@ -1,3 +1,3 @@
 # Adventure-Game
 
-Adventure game using if-elif-else statements in PYTHON
+Basic if-elif-else statements adventure game in PYTHON
